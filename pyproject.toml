@@ -1,0 +1,22 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "diacriticize"
+version = "1.0.0"
+authors = [
+  {name = "qono konoha"}
+]
+description = "A package that ḑ͌̓͜ ̧ͤ́ͫe̹͚͛̔ ̸̞̓ͩm͚̜̅́ ̷͉̽͊o̗͚̊̕ ͖̈ͧ̓l̴̢͈̋ ̲̰̅͏i̧̨̳͇ ̮̦̠͟s̢͒̎͌ ͉ͣͩ͢ḩ͙͍͌ ̵̤̿ͣe̡͑͊͊ ̯̪͙̅s̶ͬ͒̆ strings"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License"
+]
+
+
+[project.urls]
+Homepage = "https://github.com/donotsolveme/diacriticize"
+Issues =  "https://github.com/donotsolveme/diacriticize/issues"

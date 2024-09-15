@@ -1,0 +1,1 @@
+from diacriticize.diacriticize import *
